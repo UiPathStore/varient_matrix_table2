@@ -1,0 +1,9 @@
+{
+  "issueKeyTestcaseValues": {},
+  "testManagerBasePath": "https://cloud.uipath.com/intelizgn/defaulttenant/testmanager_",
+  "defaultProject": {
+    "id": "a9e1e582-f333-0000-807c-0b46ae4f5448",
+    "name": "Variant_matrix",
+    "key": "VRNT"
+  }
+}
